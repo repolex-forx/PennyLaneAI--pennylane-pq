@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-pq/commit/854f103f0c21fcff6ffa83b0b1db365c4f5714a9",
       "git:hexsha": "854f103f0c21fcff6ffa83b0b1db365c4f5714a9",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.34.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.34.0",
+      "repolex:parsedAt": "2026-10-28T18:50:25.680731+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-pq/commit/a4edd0869f3bb9ef5f8fd69c7126f232a0d5ee81",
