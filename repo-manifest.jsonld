@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-pq/commit/854f103f0c21fcff6ffa83b0b1db365c4f5714a9",
       "git:hexsha": "854f103f0c21fcff6ffa83b0b1db365c4f5714a9",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.34.0"
     },
     {
